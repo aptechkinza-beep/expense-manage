@@ -1,0 +1,6 @@
+@ExpenseMangementSystem_HostAddress = http://localhost:5000
+
+GET {{ExpenseMangementSystem_HostAddress}}api/Employe
+Accept: application/json
+
+###
